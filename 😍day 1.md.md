@@ -22,11 +22,10 @@
 
      # INTRODUCTION TO CYBER SECURITY
 
- - IT is the practice of  protecting systems networks,and programs from digital attacks.
+ - It is the practice of  protecting systems networks,and programs from digital attacks.
  - Those cyber Attacks are called ''Hacking''.
     ## What is hacking
 - Hacking is referred to exploiting systems vulnerabilities to gain unauthorized access to the system
-- ä
 - **Ethical hacking** finds the weak points or loopholes in acomputer , web application,or network and reports them to the organization.
 - The person who perform hacking is called **HACKER** 
      ## Types of hackers based on ETHICS 🧑‍💻🧑‍💻  

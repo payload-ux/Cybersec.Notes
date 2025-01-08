@@ -13,15 +13,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "😍day 1.md.md",
+                "file": "☠️day3_linuxuser.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "😍day 1.md"
+              "title": "☠️day3_linuxuser.md"
+            }
+          },
+          {
+            "id": "d70c3278d9c2017c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🥶day4_moreLinux.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🥶day4_moreLinux.md"
+            }
+          },
+          {
+            "id": "fc5be48c21895931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "💨day5_LinuxRun.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "💨day5_LinuxRun.md"
+            }
+          },
+          {
+            "id": "93766bc60b896f3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🚀day2_linux.md.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🚀day2_linux.md"
+            }
+          },
+          {
+            "id": "8385cfe078414607",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "☠️day3_linuxuser.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for ☠️day3_linuxuser.md"
             }
           },
           {
@@ -158,9 +212,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33feae7dc73734f8",
+  "active": "fc5be48c21895931",
   "lastOpenFiles": [
-    "😁day2.md.md",
-    "😍day 1.md.md"
+    "🥶day4_moreLinux.md.md",
+    "💨day5_LinuxRun.md.md",
+    "Pasted image 20250108111426.png",
+    "☠️day3_linuxuser.md.md",
+    "😍day 1.md.md",
+    "🚀day2_linux.md.md",
+    "Untitled",
+    "😁day2.md.md"
   ]
 }
