@@ -26,7 +26,7 @@
 - LINUX systems uses shell. the shell helps us to communicate with the kernel and helps to execute codes.
 - shell is also called **Terminal** 
 - WHAT IS THE DEFAULT SHELL TYPE FOR KALI LINUX?
-   - BASH
+   - ZSH
 
 ## LINUX COMMAND BASICS
 - On linux there are over 1000 commands. but we are expected to know the main and useful only.
